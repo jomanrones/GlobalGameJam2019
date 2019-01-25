@@ -1,0 +1,2 @@
+var jeremy = new Weirdo();
+jeremy.gudLvl = 0;
